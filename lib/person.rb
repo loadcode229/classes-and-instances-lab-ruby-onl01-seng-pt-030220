@@ -1,4 +1,4 @@
 class Person
 end
 adele_goldberg = Person.new
-alan_kay = Dog.new
+alan_kay = Person.new
